@@ -1,0 +1,4 @@
+#ignore classes
+*.class
+
+target/
